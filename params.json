@@ -1,0 +1,6 @@
+{
+  "name": "Quick-sort",
+  "tagline": "Super Fast Quick Sort",
+  "body": "# quick-sort\r\nSuper Fast Quick Sort\r\n\r\nTo Run, just use:\r\n\r\n  `QuickSortEppinger.ej_quick_sort3(array, 0, array.length)`\r\n  \r\nResults vary, but should be about 4 to 5 times faster than `java.util.Arrays.sort(array)`\r\n\r\nMIT Licence\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

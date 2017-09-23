@@ -5,11 +5,13 @@
 
   `git clone https://github.com/eppingere/quick-sort.git`
   
-2. Use in code 
+2. Move `MultiThreadedQuickSort.java` and `MultiThreadedQuickSortHelper.java` into folder
+  
+3. Use in code 
    
   `MultiThreadedQuickSort.sort(array);`
   
-3. Make fun of everyone else's slower quicksorts 😂
+4. Make fun of everyone else's slower quicksorts 😂
 
   
 Results vary, but should be about 4 to 5 times faster than `java.util.Arrays.sort(array)`

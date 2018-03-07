@@ -16,3 +16,5 @@
 Results vary, but should be about 4 to 5 times faster than `java.util.Arrays.sort(array)`
 
 MIT Licence
+
+Project for Mr. David Nassar's [Algorithm Design Class](https://www.winchesterthurston.org/lifeatwt/upper-school/uscurriculum/computer-science)
